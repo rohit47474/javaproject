@@ -14,7 +14,7 @@ public class LogE{
    public static void main(String[] args)throws IOException,SQLException{  
 	   log.debug("Hello this is a debug message");  
 	      log.info("Hello this is an info message");  
-    log.error("THis is error message");
+    log.error("THis is error ");
 		
       System.out.println("Executed Log4j");
    }  
