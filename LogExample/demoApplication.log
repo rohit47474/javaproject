@@ -1,0 +1,13 @@
+[main] DEBUG com.log.LogE  - Hello this is a debug message
+  [main] INFO  com.log.LogE  - Hello this is an info message
+  [main] DEBUG com.log.LogE  - Hello this is a debug message
+  [main] INFO  com.log.LogE  - Hello this is an info message
+  [main] WARN  com.log.LogE  - This is warn message
+  [main] ERROR com.log.LogE  - This is error message
+  [main] FATAL com.log.LogE  - This is fatal message
+  Hello this is a debug message
+  Hello this is an info message
+  This is warn message
+  This is error message
+  This is fatal message
+  
